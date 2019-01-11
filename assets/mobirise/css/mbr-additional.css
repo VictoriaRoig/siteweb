@@ -43,10 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.6rem;
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1797,7 +1797,7 @@ body {
   color: #000000;
 }
 .cid-reMUmGDwaK H1 {
-  color: #ff5844;
+  color: #e85644;
 }
 .cid-reNcys5Smk {
   padding-top: 0px;
@@ -2003,7 +2003,7 @@ body {
   }
 }
 .cid-reMRC6Pltr H2 {
-  color: #ff5844;
+  color: #e85644;
 }
 .cid-reMRC6Pltr B {
   color: #ff5844;
