@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page9.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7226,7 +7226,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/rechercher-13x-375x6672.png",
+                "image": "@PROJECT_PATH@/assets/images/rechercher-13x-375x6676.png",
                 "thumb": "@PROJECT_PATH@/assets/images/rechercher-13x-375x667-375x667.png",
                 "alt": "",
                 "title": "",
