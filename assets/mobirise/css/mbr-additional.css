@@ -6187,6 +6187,27 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-rn3bzynhXA {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 120px;
+}
+.cid-rn3bzynhXA .image-block {
+  margin: auto;
+}
+.cid-rn3bzynhXA figcaption {
+  position: relative;
+}
+.cid-rn3bzynhXA figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rn3bzynhXA .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rn38d2ARBG {
   background: #ffffff;
   padding-top: 60px;
