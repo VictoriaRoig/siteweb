@@ -6731,24 +6731,37 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-rm7tc5yFd5 {
+.cid-rn4elIiGYA {
   background: #ffffff;
-  padding-top: 120px;
+  padding-top: 90px;
   padding-bottom: 120px;
 }
-.cid-rm7tc5yFd5 .image-block {
+.cid-rn4elIiGYA .image-block {
   margin: auto;
 }
-.cid-rm7tc5yFd5 figcaption {
+.cid-rn4elIiGYA figcaption {
   position: relative;
 }
-.cid-rm7tc5yFd5 figcaption div {
+.cid-rn4elIiGYA figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rm7tc5yFd5 .image-block {
+  .cid-rn4elIiGYA .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rn4eqwd648 {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 105px;
+}
+.cid-rn4eqwd648 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rn4eqwd648 .video-block {
     width: 100% !important;
   }
 }
