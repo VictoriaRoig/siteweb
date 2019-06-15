@@ -7703,16 +7703,3 @@ body {
 .cid-rtubvGIcHz .mbr-section-subtitle DIV {
   color: #000000;
 }
-.cid-rtubCoGcgJ {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 120px;
-}
-.cid-rtubCoGcgJ .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rtubCoGcgJ .video-block {
-    width: 100% !important;
-  }
-}
