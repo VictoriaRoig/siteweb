@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "àpropos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -74,7 +74,7 @@
     ],
     "uniqCompNum": 136,
     "versionPublish": "4.8.8",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/1250a531a434b17e500732572c1fb25a-128x192.png",
     "noImageResize": ""
   },
   "pages": {
